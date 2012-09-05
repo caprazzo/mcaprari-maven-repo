@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.caprazzi.sbatti.io</groupId>
+  <artifactId>sbatti.io</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120905.103605</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120905103605</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20120905.103605-1</value>
+        <updated>20120905103605</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20120905.103605-1</value>
+        <updated>20120905103605</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
