@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>net.caprazzi.sbatti.io</groupId>
   <artifactId>sbatti.io</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20120905.140613</timestamp>
+      <timestamp>20120905.142110</timestamp>
       <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20120905140613</lastUpdated>
+    <lastUpdated>20120905142110</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20120905.140613-2</value>
-        <updated>20120905140613</updated>
+        <value>0.0.2-20120905.142110-2</value>
+        <updated>20120905142110</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20120905.140613-2</value>
-        <updated>20120905140613</updated>
+        <value>0.0.2-20120905.142110-2</value>
+        <updated>20120905142110</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
