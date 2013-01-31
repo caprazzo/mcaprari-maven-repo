@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.basho.riak</groupId>
+  <artifactId>riak-client</artifactId>
+  <versioning>
+    <versions>
+      <version>1.1.0-jackson_2.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130131121145</lastUpdated>
+  </versioning>
+</metadata>
