@@ -9,6 +9,19 @@ Mcaprari maven repository
 
     mvn -DaltDeploymentRepository=snapshot-repo::default::file:../mcaprari-maven-repo/snapshots clean deploy
 
+## Using this repo in a project:
+
+	<repositories>
+	    <repository>
+	        <id>mcaprari-releases</id>
+	        <url>https://github.com/mcaprari/mcaprari-maven-repo/raw/master/releases</url>
+	    </repository>
+	    <repository>
+	        <id>mcaprari-snapshots</id>
+	        <url>https://github.com/mcaprari/mcaprari-maven-repo/raw/master/snapshots</url>
+	    </repository>
+	</repositories>
+
 ## Project pom distribution management
 
 	<distributionManagement>
@@ -21,6 +34,8 @@ Mcaprari maven repository
             <url>https://github.com/mcaprari/mcaprari-maven-repo/raw/master/snapshots</url>
         </snapshotRepository>
     </distributionManagement>    
+
+    
 
 
 
