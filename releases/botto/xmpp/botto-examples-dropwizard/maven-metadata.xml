@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>botto.xmpp</groupId>
+  <artifactId>botto-examples-dropwizard</artifactId>
+  <versioning>
+    <versions>
+      <version>0.6.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130718082816</lastUpdated>
+  </versioning>
+</metadata>
