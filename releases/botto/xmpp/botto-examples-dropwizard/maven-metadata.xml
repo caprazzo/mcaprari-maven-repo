@@ -3,11 +3,12 @@
   <groupId>botto.xmpp</groupId>
   <artifactId>botto-examples-dropwizard</artifactId>
   <versioning>
-    <release>0.6.1</release>
+    <release>0.6.2</release>
     <versions>
       <version>0.6.0-SNAPSHOT</version>
       <version>0.6.1</version>
+      <version>0.6.2</version>
     </versions>
-    <lastUpdated>20130719131841</lastUpdated>
+    <lastUpdated>20130719132544</lastUpdated>
   </versioning>
 </metadata>
