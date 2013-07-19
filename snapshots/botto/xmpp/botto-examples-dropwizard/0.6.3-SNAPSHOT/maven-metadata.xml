@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>botto.xmpp</groupId>
+  <artifactId>botto-examples-dropwizard</artifactId>
+  <version>0.6.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20130719.150056</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20130719150056</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.6.3-20130719.150056-1</value>
+        <updated>20130719150056</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.6.3-20130719.150056-1</value>
+        <updated>20130719150056</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
