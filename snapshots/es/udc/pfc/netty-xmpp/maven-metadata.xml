@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>es.udc.pfc</groupId>
+  <artifactId>netty-xmpp</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130720095605</lastUpdated>
+  </versioning>
+</metadata>
