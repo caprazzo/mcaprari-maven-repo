@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <artifactId>botto</artifactId>
+        <groupId>botto.xmpp</groupId>
+        <version>0.7.1-SNAPSHOT</version>
+    </parent>
+    <artifactId>botto-examples</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>botto-examples-embedded</module>
+        <module>botto-examples-bots</module>
+        <module>botto-examples-dropwizard</module>
+        <module>botto-examples-embedded-mock</module>
+    </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.1</version>
+                <configuration>
+                    <source>${source.version}</source>
+                    <target>${source.version}</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
